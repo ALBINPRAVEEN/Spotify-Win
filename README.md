@@ -170,9 +170,6 @@ or
 
 - Reinstall Spotify ([Full uninstall Spotify](https://github.com/ALBINPRAVEEN/Uninstall-Spotify) recommended)
 
-<h1>FAQ</h1>
-
-- Read [FAQ](https://telegra.ph/SpotX-FAQ-09-19)
 
 <h1>Credits</h1>
 
